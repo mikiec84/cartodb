@@ -29,7 +29,7 @@
     "cartocolor": "4.0.0",
     "cartodb-pecan": "0.2.x",
     "clipboard": "1.6.1",
-    "codemirror": "5.14.2",
+    "codemirror": "5.58.2",
     "confetti-js": "0.0.14",
     "d3-interpolate": "^1.1.6",
     "d3-queue": "^3.0.7",
